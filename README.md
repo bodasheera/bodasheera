@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hii Im Vignesh Mallya, AI Engineer at Graphene Services Private Limited
+Hii Im Vignesh Mallya, Full Stack Engineer at appveen

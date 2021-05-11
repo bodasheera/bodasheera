@@ -17,4 +17,4 @@ Hii Im Vignesh Mallya, Full Stack Engineer at [appveen](https://www.appveen.com/
 - 💻 I’m currently working on [data.stack](https://cloud.appveen.com/)
 - 🌱 I’m currently learning NodeJS and MongoDB 
 
-[![Vignesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=bodasheera)](https://github.com/anuraghazra/github-readme-stats)
+[![Vignesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=bodasheera&theme=algolia&show_icons=true)

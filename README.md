@@ -19,4 +19,3 @@ Hii Im Vignesh Mallya, Full Stack Engineer at [appveen](https://www.appveen.com/
 
 ![Vignesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=bodasheera)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bodasheera)

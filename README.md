@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 Hii Im Vignesh Mallya, Full Stack Engineer at [appveen](https://www.appveen.com/)
 - 💻 I’m currently working on [data.stack](https://cloud.appveen.com/)
 - 🌱 I’m currently learning NodeJS and MongoDB 
+- 👯 I’m looking for study buddy for competitive programming 
 - 💬 Ask me about Data Science , NLP , Scraping , Python and Automation 
 - 📫 How to reach me: https://bit.ly/3yQlvZF
 

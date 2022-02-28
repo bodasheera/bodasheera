@@ -17,7 +17,6 @@ Hii Im Vignesh Mallya
 - 💻 I’m currently working on an open source project [data.stack](https://cloud.appveen.com/)
 - 🌱 I’m currently learning about Blockchain Development
 - 💬 Ask me about Data Science , NLP , Scraping , Python and Automation 
-- 📫 How to reach me: https://bit.ly/3yQlvZF
 
 <!-- ![Vignesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=bodasheera)
  -->

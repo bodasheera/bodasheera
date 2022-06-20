@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 
 Hii Im Vignesh Mallya 
 - 💻 I’m currently working on an open source project [data.stack](https://cloud.appveen.com/)
-- 🌱 I’m currently learning about Docker and Kubernetes
-- 💬 Ask me about Data Science , NLP , Scraping , Python and Automation 
 
 <!-- ![Vignesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=bodasheera)
  -->

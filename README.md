@@ -1,5 +1,3 @@
-Here it is **same format only comma fixes nothing else changed**
-
 Hi there 👋
 
 I am Vignesh Mallya, Principal Engineer working in crypto and data platforms, I design and build large scale systems that handle complex financial data

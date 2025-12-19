@@ -10,7 +10,7 @@ I design and build large scale systems that handle complex financial data
 
 🔭 I’m currently working on
 Crypto exchange data ingestion pipelines
-Trades transfers balances positions reconciliation
+Trades , transfers , balances , positions reconciliation
 High throughput ETL systems using Python Spark and Airflow
 
 🌱 I’m currently learning

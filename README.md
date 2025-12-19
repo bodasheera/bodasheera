@@ -1,6 +1,8 @@
 Hi there 👋
 
-I am Vignesh Mallya, Principal Engineer working in crypto and data platforms, I design and build large scale systems that handle complex financial data
+I am Vignesh Mallya, Principal Engineer working in crypto and data platforms
+
+I design and build large scale systems that handle complex financial data
 
 🔭 I’m currently working on crypto exchange data ingestion pipelines, trades, transfers, balances, positions, reconciliation, high throughput ETL systems using Python, Spark, Airflow
 
